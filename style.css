@@ -1,0 +1,121 @@
+*{
+    font-family: "Lora", serif;
+    text-transform: capitalize;
+}
+.first-parent{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+.small-section h1{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin: 0;
+}
+.img-div{
+    position: relative;
+}
+.center-word h1{
+     margin: 0;
+     font-size: 38px;
+}
+.two{
+    text-align: center;
+    padding: 40px;
+}
+.center-word p{
+    color: gray;
+    font-size: 18px;
+}
+.Teaching-Approach h1{
+    font-size: 38px;
+}
+.dec{
+    text-align: center;
+}
+.img-img-flex{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 30px;
+    
+    
+}
+.dec h1{
+    color: white;
+    margin:  0;
+    font-size: 38px;
+}
+.dec p{
+    color: white;
+}
+.gallery{
+    background-color: #00126B;
+}
+.Teaching-Approach {
+    text-align: center;
+}
+.img-div-center h1{
+    font-size: 38px;
+}
+.img-div-center{
+    color: white;
+    position: absolute;
+ bottom: 110px;
+left: 470px;
+}
+.small-section{
+    background-color: #F52935;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+ul {
+    padding: 0;
+     margin: 0;
+      overflow: hidden;
+       display: flex;
+        align-items: center;
+}
+.home{
+    color: #00126B;
+}
+ul li{
+    color: black;
+  float: right;
+  list-style-type: none;
+  padding: 17px 20px;
+  display: block;
+}
+.dispay-flex-div{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.text-div{
+    text-align: center;
+}
+.text-div h1{
+    color: white;
+    font-size: 38px;
+    margin: 0;
+}
+.text-div p{
+    color: white;
+    font-size: 18px;
+}
+.blue{
+    background-color: #00126B;
+}
+.price img{
+    border-radius: 30px;
+}
+.price{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
